@@ -4,5 +4,5 @@ Encapsulate initialization of application.
 */
 
 export const console = () => {
-    return '2';
+    return '1';
 };
