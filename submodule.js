@@ -5,5 +5,5 @@ Encapsulate initialization of application.
 
 export const console = () => {
 
-console.log('версия_1')
+console.log('версия_2')
 }
